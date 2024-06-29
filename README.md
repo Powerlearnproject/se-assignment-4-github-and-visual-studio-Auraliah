@@ -43,11 +43,16 @@ Stars and Watching: Users can star repositories they like and watch repositories
 **Supporting Collaborative Software Development**
 
 GitHub supports collaborative software development by providing tools that facilitate:
-Code Sharing: Repositories can be accessed by multiple developers, making it easy to share and collaborate on code.
-Code Review: Pull requests and code reviews ensure that changes are scrutinized before being merged, improving code quality.
-Communication: Issues, discussions, and comments on pull requests enable effective communication among team members.
-Project Management: Integrated project management tools help teams track progress, prioritize tasks, and manage workloads.
-Continuous Integration: Automated workflows and CI/CD pipelines ensure that code is tested and deployed efficiently, reducing the risk of errors and improving software quality.
+
+1.Code Sharing: Repositories can be accessed by multiple developers, making it easy to share and collaborate on code.
+
+2.Code Review: Pull requests and code reviews ensure that changes are scrutinized before being merged, improving code quality.
+
+3.Communication: Issues, discussions, and comments on pull requests enable effective communication among team members.
+
+4.Project Management: Integrated project management tools help teams track progress, prioritize tasks, and manage workloads.
+
+5.Continuous Integration: Automated workflows and CI/CD pipelines ensure that code is tested and deployed efficiently, reducing the risk of errors and improving software quality.
 
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
